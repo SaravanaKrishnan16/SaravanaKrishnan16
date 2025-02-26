@@ -26,7 +26,7 @@ Here are some of my recent projects and POCs:
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravana-krishnan-j-3a7080299/)  
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaravanaKrishnan16)  
-📧 **Email**: Your Email Address  
+📧 **Email**: saravanakrishnan16@gmail.com
 
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
