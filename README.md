@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saravana%20Krishnan%20J&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AWS%20Certified%20Cloud%20%26%20DevOps%20Engineer&descAlignY=60&descSize=18"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saravana%20Krishnan%20J&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AWS%20Certified%20Cloud%20and%20DevOps%20Engineer&descAlignY=60&descSize=18"/>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -278,119 +278,6 @@ const saravanaKrishnan: Developer = {
   <h3>💭 <em>"Building the future, one commit at a time"</em> 💭</h3>
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Footer Typing SVG" />
-  
-  <br><br>
-  
-  ⭐ <strong>If you find my work interesting, please consider giving a star to my repositories!</strong> ⭐
-</div>
-    <tr>
-      <td width="50%">
-        <a href="https://medium.com/@saravanakrishnan16/️my-aws-certification-journey-how-i-passed-cloud-practitioner-developer-associate-a-7c97f04f4e9b">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@saravanakrishnan16/0" alt="Recent Article 0">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://medium.com/@saravanakrishnan16/dsa-problem-solving-strategies-lessons-from-solving-700-leetcode-and-geeksforgeeks-problems-e28f847041a7">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@saravanakrishnan16/1" alt="Recent Article 1">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://medium.com/@saravanakrishnan16">
-    <img src="https://img.shields.io/badge/Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🎯 Current Goals & Future Vision</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
-</div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="50"/>
-        <br><strong>AWS Solutions Architect</strong>
-        <br>Next Certification Target
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
-        <br><strong>Open Source</strong>
-        <br>Contributing to Cloud Projects
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/>
-        <br><strong>Kubernetes</strong>
-        <br>Advanced DevOps Mastery
-      </td>
-      <td align="center" width="25%">
-        <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"/>
-        <br><strong>Career Growth</strong>
-        <br>Cloud/DevOps Opportunities
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="center">🤝 Let's Connect & Collaborate!</h2>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-</div>
-
-<!-- Contact Cards -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:saravanakrishnan16@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/saravana-krishnan-j-3a7080299/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://saravanakrishnan16.github.io/My-Portfolio">
-          <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://leetcode.com/u/SaravanaKrishnan16/">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SaravanaKrishnan16/SaravanaKrishnan16/output/snake.svg" alt="Snake animation" />
-</div>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
-
-<div align="center">
-  <h3>💭 <em>"Building the future, one commit at a time"</em> 💭</h3>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Footer Typing SVG" />
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=SaravanaKrishnan16&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
   
   <br><br>
   
