@@ -105,8 +105,9 @@ const saravanaKrishnan: Developer = {
         <h3 align="center">🏥 Smart Medicine Reminder</h3>
         <div align="center">
           <a href="https://github.com/SaravanaKrishnan16/MediCare-Plus-AWS">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaravanaKrishnan16&repo=MediCare-Plus-AWS&theme=radical&hide_border=true&bg_color=0D1117" alt="MediCare Plus"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaravanaKrishnan16&repo=MediCare-Plus-AWS&theme=radical&hide_border=true&bg_color=0D1117&description_lines_count=2" alt="MediCare Plus"/>
           </a>
+          <p><strong>Serverless healthcare web application with automated medicine reminders and caretaker alerts</strong></p>
         </div>
         <p align="center">
           <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
@@ -118,8 +119,9 @@ const saravanaKrishnan: Developer = {
         <h3 align="center">🛡️ Phishing Detection AI</h3>
         <div align="center">
           <a href="https://github.com/SaravanaKrishnan16/Phishing-Detection-AI-AWS">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaravanaKrishnan16&repo=Phishing-Detection-AI-AWS&theme=radical&hide_border=true&bg_color=0D1117" alt="Phishing Detection"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaravanaKrishnan16&repo=Phishing-Detection-AI-AWS&theme=radical&hide_border=true&bg_color=0D1117&description_lines_count=2" alt="Phishing Detection"/>
           </a>
+          <p><strong>AI-powered cybersecurity application using machine learning to detect phishing websites</strong></p>
         </div>
         <p align="center">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -133,8 +135,9 @@ const saravanaKrishnan: Developer = {
         <h3 align="center">🎤 RecruitAI Pro</h3>
         <div align="center">
           <a href="https://github.com/SaravanaKrishnan16/RecruitAI-Pro">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaravanaKrishnan16&repo=RecruitAI-Pro&theme=radical&hide_border=true&bg_color=0D1117" alt="RecruitAI Pro"/>
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SaravanaKrishnan16&repo=RecruitAI-Pro&theme=radical&hide_border=true&bg_color=0D1117&description_lines_count=2" alt="RecruitAI Pro"/>
           </a>
+          <p><strong>AI-powered mock interview platform with real-time speech recognition and automated evaluation</strong></p>
         </div>
         <p align="center">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -182,7 +185,7 @@ const saravanaKrishnan: Developer = {
 
 <!-- Achievement Badges -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaravanaKrishnan16&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SaravanaKrishnan16&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -206,32 +209,7 @@ const saravanaKrishnan: Developer = {
   </table>
 </div>
 
----
 
-## 📝 Latest Blog Posts
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://medium.com/@saravanakrishnan16">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@saravanakrishnan16/0" alt="Recent Article 0">
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://medium.com/@saravanakrishnan16">
-          <img src="https://github-readme-medium-recent-article.vercel.app/medium/@saravanakrishnan16/1" alt="Recent Article 1">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <a href="https://medium.com/@saravanakrishnan16">
-    <img src="https://img.shields.io/badge/Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</div>
 
 ---
 
@@ -266,10 +244,7 @@ const saravanaKrishnan: Developer = {
 
 ---
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SaravanaKrishnan16/SaravanaKrishnan16/output/snake.svg" alt="Snake animation" />
-</div>
+
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
