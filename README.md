@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saravana%20Krishnan%20J&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AWS%20Certified%20Cloud%20and%20Develepor%20Engineer&descAlignY=60&descSize=18"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saravana%20Krishnan%20J&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AWS%20Certified%20Cloud%20and%20Develepor%20Associate&descAlignY=60&descSize=18"/>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -42,14 +42,14 @@
 ```typescript
 const saravanaKrishnan: Developer = {
     name: "Saravana Krishnan J",
-    title: "AWS Certified Cloud & DevOps Engineer",
+    title: "AWS Certified Cloud & Aspiring DevOps Engineer",
     education: "B.Tech IT @ St. Joseph's Institute of Technology",
     location: "Chennai, Tamil Nadu, India 🇮🇳",
     currentFocus: ["Cloud Computing", "DevOps", "Problem Solving"],
     certifications: ["AWS Developer Associate", "AWS Cloud Practitioner", "GitHub Foundations"],
     problemsSolved: "500+",
-    languages: ["Java", "Python", "JavaScript", "SQL"],
-    cloudTech: ["AWS", "Docker", "Terraform", "Kubernetes"],
+    languages: ["Java", "SQL"],
+    cloudTech: ["AWS", "Docker", "Terraform"],
     webTech: ["React", "Node.js", "HTML", "CSS"],
     tools: ["GitHub", "Linux", "VS Code"],
     motto: "Building scalable solutions in the cloud ☁️"
