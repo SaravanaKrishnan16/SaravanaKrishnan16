@@ -63,16 +63,16 @@ const saravanaKrishnan: Developer = {
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,jenkins,linux" alt="Cloud & DevOps"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,linux" alt="Cloud & DevOps"/>
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,sql,bash" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,sql,bash" alt="Programming Languages"/>
 
 ### 🌐 Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,html,css,bootstrap,tailwind" alt="Frontend & Backend"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,html,css" alt="Frontend & Backend"/>
 
 ### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,notion" alt="Tools"/>
 
 </div>
 
