@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saravana%20Krishnan%20J&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AWS%20Certified%20Cloud%20and%20Develepor%20Associate&descAlignY=60&descSize=18"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Saravana%20Krishnan%20J&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AWS%20Certified%20Cloud%20and%20Developer%20Associate&descAlignY=60&descSize=18"/>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -165,7 +165,7 @@ const saravanaKrishnan: Developer = {
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"/>
+        <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100"/>
         <br><strong>AWS Developer Associate</strong>
         <br><a href="https://www.credly.com/badges/00d8912e-b2df-46ec-8f58-6c59754b4b14/public_url">🏆 Verify</a>
       </td>
