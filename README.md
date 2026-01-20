@@ -188,16 +188,15 @@ const saravanaKrishnan: Developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=SaravanaKrishnan16&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </div>
 
+---
+
 ## 🎮 GitHub Activity Heatmap
 
 <div align="center">
   <h3>📊 Contribution Heatmap with Pacman Adventure</h3>
   
-  <!-- GitHub Heatmap -->
-  <img src="https://ghchart.rshah.org/409ba5/SaravanaKrishnan16" alt="GitHub Contribution Heatmap" width="100%"/>
-  
-  <!-- Pacman Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Pacman eating contributions" width="100%"/>
+  <!-- GitHub Heatmap with Snake Animation -->
+  <img src="https://raw.githubusercontent.com/SaravanaKrishnan16/SaravanaKrishnan16/output/github-contribution-grid-snake.svg" alt="Pacman eating contributions" width="100%"/>
   
   <p align="center">
     <em>"Pacman is collecting my daily commits! 🎮"</em>
