@@ -40,10 +40,11 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=F85D7F&center=true&vCenter=true&width=800&lines=const+saravanaKrishnan%3A+Developer+%3D+%7B;++++name%3A+%22Saravana+Krishnan+J%22%2C;++++title%3A+%22AWS+Certified+Cloud+%26+DevOps+Engineer%22%2C;++++education%3A+%22B.Tech+IT+%40+St.+Joseph's+Institute%22%2C;++++location%3A+%22Chennai%2C+Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3%22%2C;++++currentFocus%3A+%5B%22Cloud%22%2C+%22DevOps%22%2C+%22Problem+Solving%22%5D%2C;++++certifications%3A+%5B%22AWS+Developer%22%2C+%22AWS+Cloud%22%2C+%22GitHub%22%5D%2C;++++problemsSolved%3A+%22500%2B%22%2C;++++languages%3A+%5B%22Java%22%2C+%22SQL%22%5D%2C;++++cloudTech%3A+%5B%22AWS%22%2C+%22Docker%22%2C+%22Terraform%22%5D%2C;++++webTech%3A+%5B%22React%22%2C+%22Node.js%22%2C+%22HTML%22%2C+%22CSS%22%5D%2C;++++tools%3A+%5B%22GitHub%22%2C+%22Linux%22%2C+%22VS+Code%22%5D%2C;++++motto%3A+%22Building+scalable+solutions+in+the+cloud+%E2%98%81%EF%B8%8F%22;%7D%3B" alt="Animated Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=💻+Name%3A+Saravana+Krishnan+J;🎆+Title%3A+AWS+Certified+Cloud+%26+DevOps+Engineer;🏫+Education%3A+B.Tech+IT+%40+St.+Joseph's+Institute;📍+Location%3A+Chennai%2C+Tamil+Nadu%2C+India+🇮🇳;🎯+Focus%3A+Cloud+Computing%2C+DevOps%2C+Problem+Solving;🏅+Certifications%3A+AWS+Developer%2C+AWS+Cloud%2C+GitHub;📊+Problems+Solved%3A+500%2B;💻+Languages%3A+Java%2C+SQL;☁️+Cloud+Tech%3A+AWS%2C+Docker%2C+Terraform;🌐+Web+Tech%3A+React%2C+Node.js%2C+HTML%2C+CSS;🔧+Tools%3A+GitHub%2C+Linux%2C+VS+Code;✨+Motto%3A+Building+scalable+solutions+in+the+cloud+☁️" alt="About Me Animation" />
 </div>
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
