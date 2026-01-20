@@ -40,42 +40,7 @@
 </div>
 
 <div align="center">
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=F85D7F&center=true&vCenter=true&width=600&lines=💻+Name%3A+Saravana+Krishnan+J" alt="Name" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=🎆+Title%3A+AWS+Certified+Cloud+%26+DevOps+Engineer" alt="Title" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=650&lines=🏫+Education%3A+B.Tech+IT+%40+St.+Joseph's+Institute" alt="Education" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=650&lines=📍+Location%3A+Chennai%2C+Tamil+Nadu%2C+India+🇮🇳" alt="Location" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=0F9D58&center=true&vCenter=true&width=700&lines=🎯+Focus%3A+Cloud+Computing%2C+DevOps%2C+Problem+Solving" alt="Focus" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF9900&center=true&vCenter=true&width=650&lines=🏅+Certifications%3A+AWS+Developer%2C+AWS+Cloud%2C+GitHub" alt="Certifications" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=9B59B6&center=true&vCenter=true&width=500&lines=📊+Problems+Solved%3A+500%2B" alt="Problems" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=3498DB&center=true&vCenter=true&width=450&lines=💻+Languages%3A+Java%2C+SQL" alt="Languages" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=E74C3C&center=true&vCenter=true&width=600&lines=☁️+Cloud+Tech%3A+AWS%2C+Docker%2C+Terraform" alt="Cloud" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=2ECC71&center=true&vCenter=true&width=650&lines=🌐+Web+Tech%3A+React%2C+Node.js%2C+HTML%2C+CSS" alt="Web" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=F39C12&center=true&vCenter=true&width=550&lines=🔧+Tools%3A+GitHub%2C+Linux%2C+VS+Code" alt="Tools" />
-  </p>
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=8E44AD&center=true&vCenter=true&width=700&lines=✨+Motto%3A+Building+scalable+solutions+in+the+cloud+☁️" alt="Motto" />
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=💻+Name%3A+Saravana+Krishnan+J;🎆+Title%3A+AWS+Certified+Cloud+Engineer;🏫+Education%3A+B.Tech+IT+Student;📍+Location%3A+Chennai%2C+India+🇮🇳;🎯+Focus%3A+Cloud%2C+DevOps%2C+Problem+Solving;🏅+Certifications%3A+AWS+Developer+%26+Cloud;📊+Problems+Solved%3A+500%2B;💻+Languages%3A+Java%2C+SQL;☁️+Cloud%3A+AWS%2C+Docker%2C+Terraform;🌐+Web%3A+React%2C+Node.js%2C+HTML%2C+CSS;🔧+Tools%3A+GitHub%2C+Linux%2C+VS+Code;✨+Motto%3A+Building+scalable+cloud+solutions" alt="About Me" />
 </div>
 
 ---
