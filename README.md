@@ -182,12 +182,8 @@ const saravanaKrishnan: Developer = {
   </table>
 </div>
 
-<!-- Achievement Badges -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SaravanaKrishnan16&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
-</div>
-
 ---
+
 
 ## 🏆 Coding Platforms & Achievements
 
