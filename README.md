@@ -200,23 +200,13 @@ const saravanaKrishnan: Developer = {
   
   <!-- Pacman Animation -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=🟡+•+•+•+👻+•+•+•+🟡;•+🟡+•+•+👻+•+•+🟡+•;•+•+🟡+•+👻+•+🟡+•+•;•+•+•+🟡+👻+🟡+•+•+•" alt="Pacman wandering" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1500&pause=300&color=FFD700&center=true&vCenter=true&width=400&lines=🟡+•+•+•+👻+•+•+•;•+🟡+•+•+👻+•+•+•;•+•+🟡+•+👻+•+•+•;•+•+•+🟡+👻+•+•+•;•+•+•+•+🟡+•+•+•;•+•+•+👻+🟡+•+•+•;•+•+👻+•+🟡+•+•+•;•+👻+•+•+🟡+•+•+•;👻+•+•+•+🟡+•+•+•" alt="Pacman wandering" />
   </p>
   
   <p align="center">
     <em>"Pacman is collecting my daily commits! 🎮"</em>
   </p>
 </div>
-
-<style>
-@keyframes pacman-move {
-  0% { left: 0%; }
-  25% { left: 25%; }
-  50% { left: 50%; }
-  75% { left: 75%; }
-  100% { left: 100%; }
-}
-</style>
 
 ---
 
