@@ -195,13 +195,13 @@ const saravanaKrishnan: Developer = {
 <div align="center">
   <h3>📊 Contribution Heatmap with Pacman Adventure</h3>
   
-  <!-- GitHub Heatmap with Pacman -->
-  <div style="position: relative;">
-    <img src="https://ghchart.rshah.org/409ba5/SaravanaKrishnan16" alt="GitHub Contribution Heatmap" width="100%"/>
-    <div style="position: absolute; top: 50%; left: 10%; animation: pacman-move 10s linear infinite;">
-      🟡
-    </div>
-  </div>
+  <!-- GitHub Heatmap -->
+  <img src="https://ghchart.rshah.org/409ba5/SaravanaKrishnan16" alt="GitHub Contribution Heatmap" width="100%"/>
+  
+  <!-- Pacman Animation -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=🟡+•+•+•+👻+•+•+•+🟡;•+🟡+•+•+👻+•+•+🟡+•;•+•+🟡+•+👻+•+🟡+•+•;•+•+•+🟡+👻+🟡+•+•+•" alt="Pacman wandering" />
+  </p>
   
   <p align="center">
     <em>"Pacman is collecting my daily commits! 🎮"</em>
