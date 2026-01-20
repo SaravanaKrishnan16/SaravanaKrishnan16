@@ -39,7 +39,21 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=💻%20Name%3A%20Saravana%20Krishnan%20J%20%7C%20🎆%20Title%3A%20AWS%20Certified%20Cloud%20%26%20DevOps%20Engineer%20%7C%20🏫%20Education%3A%20B.Tech%20IT%20%40%20St.%20Joseph's%20Institute%20%7C%20📍%20Location%3A%20Chennai%2C%20Tamil%20Nadu%2C%20India%20🇮🇳%20%7C%20🎯%20Focus%3A%20Cloud%20Computing%2C%20DevOps%2C%20Problem%20Solving%20%7C%20🏅%20Certifications%3A%20AWS%20Developer%2C%20AWS%20Cloud%2C%20GitHub%20%7C%20📊%20Problems%20Solved%3A%20500%2B%20%7C%20💻%20Languages%3A%20Java%2C%20SQL%20%7C%20☁️%20Cloud%20Tech%3A%20AWS%2C%20Docker%2C%20Terraform%20%7C%20🌐%20Web%20Tech%3A%20React%2C%20Node.js%2C%20HTML%2C%20CSS%20%7C%20🔧%20Tools%3A%20GitHub%2C%20Linux%2C%20VS%20Code%20%7C%20✨%20Motto%3A%20Building%20scalable%20solutions%20in%20the%20cloud%20☁️&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=50"/>
+```typescript
+const saravanaKrishnan: Developer = {
+    name: "Saravana Krishnan J",
+    title: "AWS Certified Cloud & Aspiring DevOps Engineer",
+    education: "B.Tech IT @ St. Joseph's Institute of Technology",
+    location: "Chennai, Tamil Nadu, India 🇮🇳",
+    currentFocus: ["Cloud Computing", "DevOps", "Problem Solving"],
+    certifications: ["AWS Developer Associate", "AWS Cloud Practitioner", "GitHub Foundations"],
+    problemsSolved: "500+",
+    languages: ["Java", "SQL"],
+    cloudTech: ["AWS", "Docker", "Terraform"],
+    webTech: ["React", "Node.js", "HTML", "CSS"],
+    tools: ["GitHub", "Linux", "VS Code"],
+    motto: "Building scalable solutions in the cloud ☁️"
+};
 
 ---
 
