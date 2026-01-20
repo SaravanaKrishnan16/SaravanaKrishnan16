@@ -190,6 +190,31 @@ const saravanaKrishnan: Developer = {
 
 ---
 
+## 🎮 GitHub Activity Heatmap
+
+<div align="center">
+  <h3>📊 Contribution Heatmap with Pacman Adventure</h3>
+  
+  <!-- GitHub Heatmap -->
+  <img src="https://ghchart.rshah.org/409ba5/SaravanaKrishnan16" alt="GitHub Contribution Heatmap" width="100%"/>
+  
+  <!-- Snake Animation -->
+  <div style="position: relative; margin: 20px 0;">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" width="100%"/>
+  </div>
+  
+  <!-- Pacman Animation -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=🟡%20•%20•%20•%20👻%20•%20•%20•%20🟡&fontSize=20&fontColor=fff&animation=fadeIn" alt="Pacman wandering"/>
+  </p>
+  
+  <p align="center">
+    <em>"Pacman is collecting my daily commits! 🎮"</em>
+  </p>
+</div>
+
+---
+
 ## 📊 Coding Platforms
 
 <div align="center">
