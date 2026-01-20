@@ -39,6 +39,10 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=header&text=💻%20Developer%20Profile&fontSize=30&fontColor=fff&animation=fadeIn" alt="Profile Header"/>
+</div>
+
 ```typescript
 const saravanaKrishnan: Developer = {
     name: "Saravana Krishnan J",
@@ -55,6 +59,18 @@ const saravanaKrishnan: Developer = {
     motto: "Building scalable solutions in the cloud ☁️"
 };
 ```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=80&section=footer&text=✨%20Always%20Learning%2C%20Always%20Growing%20✨&fontSize=20&fontColor=fff&animation=blinking" alt="Learning Footer"/>
+</div>
+
+<!-- Animated Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🚀-Cloud%20Engineer-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=FF6B6B&animation=pulse"/>
+  <img src="https://img.shields.io/badge/💻-Problem%20Solver-00D9FF?style=for-the-badge&labelColor=00D9FF&color=00D9FF"/>
+  <img src="https://img.shields.io/badge/☁️-AWS%20Certified-FF9900?style=for-the-badge&labelColor=FF9900&color=FF9900"/>
+  <img src="https://img.shields.io/badge/🌱-Continuous%20Learner-0F9D58?style=for-the-badge&labelColor=0F9D58&color=0F9D58"/>
+</div>
 
 ---
 
@@ -196,7 +212,7 @@ const saravanaKrishnan: Developer = {
   
   <!-- Static Header -->
   <h3>🚀 Competitive Programming Journey</h3>
-  <p><strong>💻 500+ Problems Solved | 🏅 Multiple Platform Expert</strong></p>
+  <p><strong>💻 500+ Problems Solved | 🏅 Multiple Platform Explorer</strong></p>
   
   <!-- LeetCode Stats -->
   <table>
@@ -245,7 +261,7 @@ const saravanaKrishnan: Developer = {
   
   <!-- Static Stats -->
   <br>
-  <p><strong>📈 Total Problems Solved: 500+ | 🎯 Active on 4+ Platforms | 💡 DSA Expert | 🏅 Consistent Solver</strong></p>
+  <p><strong>📈 Total Problems Solved: 500+ | 🎯 Active on 4+ Platforms | 💡 DSA Enthusiast | 🏅 Consistent Solver</strong></p>
   
   <!-- Platform Links -->
   <br>
