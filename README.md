@@ -54,7 +54,7 @@ const saravanaKrishnan: Developer = {
     tools: ["GitHub", "Linux", "VS Code"],
     motto: "Building scalable solutions in the cloud ☁️"
 };
-
+```
 ---
 
 ## 🛠️ Tech Stack
