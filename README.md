@@ -40,7 +40,18 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=💻+Name%3A+Saravana+Krishnan+J;🎆+Title%3A+AWS+Certified+Cloud+Engineer;🏫+Education%3A+B.Tech+IT+Student;📍+Location%3A+Chennai%2C+India+🇮🇳;🎯+Focus%3A+Cloud%2C+DevOps%2C+Problem+Solving;🏅+Certifications%3A+AWS+Developer+%26+Cloud;📊+Problems+Solved%3A+500%2B;💻+Languages%3A+Java%2C+SQL;☁️+Cloud%3A+AWS%2C+Docker%2C+Terraform;🌐+Web%3A+React%2C+Node.js%2C+HTML%2C+CSS;🔧+Tools%3A+GitHub%2C+Linux%2C+VS+Code;✨+Motto%3A+Building+scalable+cloud+solutions" alt="About Me" />
+  <h3>💻 <strong>Name:</strong> Saravana Krishnan J</h3>
+  <h3>🎆 <strong>Title:</strong> AWS Certified Cloud & DevOps Engineer</h3>
+  <h3>🏫 <strong>Education:</strong> B.Tech IT @ St. Joseph's Institute</h3>
+  <h3>📍 <strong>Location:</strong> Chennai, Tamil Nadu, India 🇮🇳</h3>
+  <h3>🎯 <strong>Focus:</strong> Cloud Computing, DevOps, Problem Solving</h3>
+  <h3>🏅 <strong>Certifications:</strong> AWS Developer, AWS Cloud, GitHub</h3>
+  <h3>📊 <strong>Problems Solved:</strong> 500+</h3>
+  <h3>💻 <strong>Languages:</strong> Java, SQL</h3>
+  <h3>☁️ <strong>Cloud Tech:</strong> AWS, Docker, Terraform</h3>
+  <h3>🌐 <strong>Web Tech:</strong> React, Node.js, HTML, CSS</h3>
+  <h3>🔧 <strong>Tools:</strong> GitHub, Linux, VS Code</h3>
+  <h3>✨ <strong>Motto:</strong> Building scalable solutions in the cloud ☁️</h3>
 </div>
 
 ---
