@@ -40,40 +40,10 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=100&section=header&text=💻%20Developer%20Profile&fontSize=30&fontColor=fff&animation=fadeIn" alt="Profile Header"/>
-</div>
-
-```typescript
-const saravanaKrishnan: Developer = {
-    name: "Saravana Krishnan J",
-    title: "AWS Certified Cloud & Aspiring DevOps Engineer",
-    education: "B.Tech IT @ St. Joseph's Institute of Technology",
-    location: "Chennai, Tamil Nadu, India 🇮🇳",
-    currentFocus: ["Cloud Computing", "DevOps", "Problem Solving"],
-    certifications: ["AWS Developer Associate", "AWS Cloud Practitioner", "GitHub Foundations"],
-    problemsSolved: "500+",
-    languages: ["Java", "SQL"],
-    cloudTech: ["AWS", "Docker", "Terraform"],
-    webTech: ["React", "Node.js", "HTML", "CSS"],
-    tools: ["GitHub", "Linux", "VS Code"],
-    motto: "Building scalable solutions in the cloud ☁️"
-};
-```
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=80&section=footer&text=✨%20Always%20Learning%2C%20Always%20Growing%20✨&fontSize=20&fontColor=fff&animation=blinking" alt="Learning Footer"/>
-</div>
-
-<!-- Animated Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀-Cloud%20Engineer-FF6B6B?style=for-the-badge&labelColor=FF6B6B&color=FF6B6B&animation=pulse"/>
-  <img src="https://img.shields.io/badge/💻-Problem%20Solver-00D9FF?style=for-the-badge&labelColor=00D9FF&color=00D9FF"/>
-  <img src="https://img.shields.io/badge/☁️-AWS%20Certified-FF9900?style=for-the-badge&labelColor=FF9900&color=FF9900"/>
-  <img src="https://img.shields.io/badge/🌱-Continuous%20Learner-0F9D58?style=for-the-badge&labelColor=0F9D58&color=0F9D58"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=F85D7F&center=true&vCenter=true&width=800&lines=const+saravanaKrishnan%3A+Developer+%3D+%7B;++++name%3A+%22Saravana+Krishnan+J%22%2C;++++title%3A+%22AWS+Certified+Cloud+%26+DevOps+Engineer%22%2C;++++education%3A+%22B.Tech+IT+%40+St.+Joseph's+Institute%22%2C;++++location%3A+%22Chennai%2C+Tamil+Nadu%2C+India+%F0%9F%87%AE%F0%9F%87%B3%22%2C;++++currentFocus%3A+%5B%22Cloud%22%2C+%22DevOps%22%2C+%22Problem+Solving%22%5D%2C;++++certifications%3A+%5B%22AWS+Developer%22%2C+%22AWS+Cloud%22%2C+%22GitHub%22%5D%2C;++++problemsSolved%3A+%22500%2B%22%2C;++++languages%3A+%5B%22Java%22%2C+%22SQL%22%5D%2C;++++cloudTech%3A+%5B%22AWS%22%2C+%22Docker%22%2C+%22Terraform%22%5D%2C;++++webTech%3A+%5B%22React%22%2C+%22Node.js%22%2C+%22HTML%22%2C+%22CSS%22%5D%2C;++++tools%3A+%5B%22GitHub%22%2C+%22Linux%22%2C+%22VS+Code%22%5D%2C;++++motto%3A+%22Building+scalable+solutions+in+the+cloud+%E2%98%81%EF%B8%8F%22;%7D%3B" alt="Animated Code" />
 </div>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <div align="center">
