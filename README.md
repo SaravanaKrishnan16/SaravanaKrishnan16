@@ -190,38 +190,80 @@ const saravanaKrishnan: Developer = {
 
 ---
 
-## 🎮 GitHub Activity Heatmap
+## 🏆 Coding Platforms & Achievements
 
 <div align="center">
-  <h3>📊 Contribution Heatmap with Pacman Adventure</h3>
   
-  <!-- GitHub Heatmap with Snake Animation -->
-  <img src="https://raw.githubusercontent.com/SaravanaKrishnan16/SaravanaKrishnan16/output/github-contribution-grid-snake.svg" alt="Pacman eating contributions" width="100%"/>
+  <!-- Animated Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=🚀+Competitive+Programming+Journey;💻+500%2B+Problems+Solved;🏅+Multiple+Platform+Expert" alt="Coding Journey" />
   
-  <p align="center">
-    <em>"Pacman is collecting my daily commits! 🎮"</em>
-  </p>
-</div>
-
----
-
-## 📊 Coding Platforms
-
-<div align="center">
+  <!-- LeetCode Stats -->
   <table>
     <tr>
-      <td align="center">
-        <img src="https://leetcard.jacoblin.cool/SaravanaKrishnan16?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+      <td align="center" width="50%">
+        <h3>🟡 LeetCode</h3>
+        <a href="https://leetcode.com/u/SaravanaKrishnan16/">
+          <img src="https://leetcard.jacoblin.cool/SaravanaKrishnan16?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-160_Days_Challenge-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+      <td align="center" width="50%">
+        <h3>🟢 GeeksforGeeks</h3>
+        <a href="https://www.geeksforgeeks.org/profile/saravanakrishnan_07">
+          <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+        </a>
         <br><br>
-        <img src="https://img.shields.io/badge/Problems_Solved-500+-FF6B6B?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/160_Days_Challenge-Completed-0F9D58?style=flat-square"/>
+        <br>
+        <img src="https://img.shields.io/badge/Problems_Solved-200%2B-0F9D58?style=flat-square"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🔶 CodeChef</h3>
+        <a href="https://www.codechef.com/users/saravana_07">
+          <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+        </a>
         <br><br>
-        <img src="https://img.shields.io/badge/GitHub_Commits-300+-181717?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/Rating-⭐⭐⭐-5B4638?style=flat-square"/>
+        <br>
+        <img src="https://img.shields.io/badge/Problems_Solved-150%2B-5B4638?style=flat-square"/>
+      </td>
+      <td align="center" width="50%">
+        <h3>🔵 CSES</h3>
+        <a href="https://cses.fi/user/396695">
+          <img src="https://img.shields.io/badge/CSES-1E40AF?style=for-the-badge&logo=c&logoColor=white"/>
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/Problem_Set-Active-1E40AF?style=flat-square"/>
+        <br>
+        <img src="https://img.shields.io/badge/Problems_Solved-50%2B-1E40AF?style=flat-square"/>
       </td>
     </tr>
   </table>
+  
+  <!-- Animated Stats -->
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=📈+Total+Problems+Solved%3A+500%2B;🎯+Active+on+4%2B+Platforms;💡+Data+Structures+%26+Algorithms+Expert;🏅+Consistent+Problem+Solver" alt="Coding Stats" />
+  
+  <!-- Platform Links -->
+  <br><br>
+  <p align="center">
+    <a href="https://leetcode.com/u/SaravanaKrishnan16/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/profile/saravanakrishnan_07">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    </a>
+    <a href="https://www.codechef.com/users/saravana_07">
+      <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    </a>
+    <a href="https://cses.fi/user/396695">
+      <img src="https://img.shields.io/badge/CSES-1E40AF?style=for-the-badge&logo=c&logoColor=white" alt="CSES"/>
+    </a>
+  </p>
+  
 </div>
 
 
