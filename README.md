@@ -194,8 +194,9 @@ const saravanaKrishnan: Developer = {
 
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=🚀+Competitive+Programming+Journey;💻+500%2B+Problems+Solved;🏅+Multiple+Platform+Expert" alt="Coding Journey" />
+  <!-- Static Header -->
+  <h3>🚀 Competitive Programming Journey</h3>
+  <p><strong>💻 500+ Problems Solved | 🏅 Multiple Platform Expert</strong></p>
   
   <!-- LeetCode Stats -->
   <table>
@@ -216,7 +217,7 @@ const saravanaKrishnan: Developer = {
         <br><br>
         <img src="https://img.shields.io/badge/160_Days_Challenge-Completed-0F9D58?style=flat-square"/>
         <br>
-        <img src="https://img.shields.io/badge/Problems_Solved-200%2B-0F9D58?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Problems_Solved-500%2B-0F9D58?style=flat-square"/>
       </td>
     </tr>
     <tr>
@@ -226,9 +227,8 @@ const saravanaKrishnan: Developer = {
           <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
         </a>
         <br><br>
-        <img src="https://img.shields.io/badge/Rating-⭐⭐⭐-5B4638?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Rating-⭐⭐-5B4638?style=flat-square"/>
         <br>
-        <img src="https://img.shields.io/badge/Problems_Solved-150%2B-5B4638?style=flat-square"/>
       </td>
       <td align="center" width="50%">
         <h3>🔵 CSES</h3>
@@ -243,12 +243,12 @@ const saravanaKrishnan: Developer = {
     </tr>
   </table>
   
-  <!-- Animated Stats -->
+  <!-- Static Stats -->
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=📈+Total+Problems+Solved%3A+500%2B;🎯+Active+on+4%2B+Platforms;💡+Data+Structures+%26+Algorithms+Expert;🏅+Consistent+Problem+Solver" alt="Coding Stats" />
+  <p><strong>📈 Total Problems Solved: 500+ | 🎯 Active on 4+ Platforms | 💡 DSA Expert | 🏅 Consistent Solver</strong></p>
   
   <!-- Platform Links -->
-  <br><br>
+  <br>
   <p align="center">
     <a href="https://leetcode.com/u/SaravanaKrishnan16/">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
@@ -265,8 +265,6 @@ const saravanaKrishnan: Developer = {
   </p>
   
 </div>
-
-
 
 ---
 
