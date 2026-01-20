@@ -39,29 +39,7 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </div>
 
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=💻%20Name%3A%20Saravana%20Krishnan%20J&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=50"/>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,11,6&height=150&section=header&text=🎆%20Title%3A%20AWS%20Certified%20Cloud%20%26%20DevOps%20Engineer&fontSize=25&fontColor=fff&animation=fadeIn&fontAlignY=50"/>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,20,11&height=150&section=header&text=🏫%20Education%3A%20B.Tech%20IT%20%40%20St.%20Joseph's%20Institute&fontSize=22&fontColor=fff&animation=blinking&fontAlignY=50"/>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,6,20&height=150&section=header&text=📍%20Location%3A%20Chennai%2C%20Tamil%20Nadu%2C%20India%20🇮🇳&fontSize=22&fontColor=fff&animation=scaleIn&fontAlignY=50"/>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=20,6,11&height=150&section=header&text=🎯%20Focus%3A%20Cloud%20Computing%2C%20DevOps%2C%20Problem%20Solving&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=50"/>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=6,11,20&height=150&section=header&text=🏅%20Certifications%3A%20AWS%20Developer%2C%20AWS%20Cloud%2C%20GitHub&fontSize=18&fontColor=fff&animation=fadeIn&fontAlignY=50"/>
-
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=11,20,6&height=120&section=header&text=📊%20Problems%20Solved%3A%20500%2B&fontSize=25&fontColor=fff&animation=blinking&fontAlignY=50"/>
-
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=20,11,6&height=120&section=header&text=💻%20Languages%3A%20Java%2C%20SQL&fontSize=25&fontColor=fff&animation=scaleIn&fontAlignY=50"/>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,20,11&height=150&section=header&text=☁️%20Cloud%20Tech%3A%20AWS%2C%20Docker%2C%20Terraform&fontSize=22&fontColor=fff&animation=twinkling&fontAlignY=50"/>
-
-<img width="100%" height="150" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=11,6,20&height=150&section=header&text=🌐%20Web%20Tech%3A%20React%2C%20Node.js%2C%20HTML%2C%20CSS&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50"/>
-
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=120&section=header&text=🔧%20Tools%3A%20GitHub%2C%20Linux%2C%20VS%20Code&fontSize=22&fontColor=fff&animation=blinking&fontAlignY=50"/>
-
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=✨%20Motto%3A%20Building%20scalable%20solutions%20in%20the%20cloud%20☁️&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=50"/>
+<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=💻%20Name%3A%20Saravana%20Krishnan%20J%20%7C%20🎆%20Title%3A%20AWS%20Certified%20Cloud%20%26%20DevOps%20Engineer%20%7C%20🏫%20Education%3A%20B.Tech%20IT%20%40%20St.%20Joseph's%20Institute%20%7C%20📍%20Location%3A%20Chennai%2C%20Tamil%20Nadu%2C%20India%20🇮🇳%20%7C%20🎯%20Focus%3A%20Cloud%20Computing%2C%20DevOps%2C%20Problem%20Solving%20%7C%20🏅%20Certifications%3A%20AWS%20Developer%2C%20AWS%20Cloud%2C%20GitHub%20%7C%20📊%20Problems%20Solved%3A%20500%2B%20%7C%20💻%20Languages%3A%20Java%2C%20SQL%20%7C%20☁️%20Cloud%20Tech%3A%20AWS%2C%20Docker%2C%20Terraform%20%7C%20🌐%20Web%20Tech%3A%20React%2C%20Node.js%2C%20HTML%2C%20CSS%20%7C%20🔧%20Tools%3A%20GitHub%2C%20Linux%2C%20VS%20Code%20%7C%20✨%20Motto%3A%20Building%20scalable%20solutions%20in%20the%20cloud%20☁️&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=50"/>
 
 ---
 
